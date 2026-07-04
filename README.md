@@ -1,6 +1,6 @@
 <!-- KHUSHBOO KAUR — GITHUB PROFILE README -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,28:18002f,58:4c1d95,82:0e7490,100:06131f&height=230&section=header&text=Khushboo%20Kaur&fontSize=64&fontColor=e9d5ff&fontAlignY=39&desc=Principal%20Java%20%26%20Distributed%20Systems%20Engineer&descAlignY=62&descSize=17&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,28:18002f,58:4c1d95,82:0e7490,100:06131f&height=230&section=header&text=Khushboo%20Kaur&fontSize=64&fontColor=e9d5ff&fontAlignY=39&desc=Principal%20Java%20and%20Distributed%20Systems%20Engineer&descAlignY=62&descSize=17&animation=twinkling" width="100%" /> <!-- ← CHANGED -->
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&center=true&vCenter=true&width=900&height=55&color=A78BFA&duration=2300&pause=850&lines=16%2B+Years+Engineering+Enterprise+Software;Java+17%2F21+%7C+Spring+Boot+%7C+Distributed+Systems;20%2B+Microservices+%7C+5M%2B+Transactions+Daily;Kafka+%7C+Event-Driven+Architecture+%7C+DDD+%7C+CQRS;AWS+EKS+%7C+Cloud-Native+%7C+Kubernetes;Building+Systems+That+Scale.+Leading+Teams+That+Deliver." alt="Typing introduction" />
