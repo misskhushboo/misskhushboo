@@ -21,7 +21,7 @@
 ```json
 {
   "name": "Khushboo Kaur",
-  "positioning": "Principal Java & Distributed Systems Engineer",
+  "positioning": "Lead Java & Distributed Systems Engineer",
   "currentRole": "Team Lead @ Accenture Baltics",
   "location": "Vilnius, Lithuania 🇱🇹",
   "experience": "16+ years",
